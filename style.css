@@ -1,6 +1,11 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
 h1{
-    color:rgb(100, 67, 107);
+    color:rgb(95, 52, 104);
 }
 body{
-    background-color: rgba(77, 133, 115, 0.541);
+    background-color: whitesmoke;
 }
